@@ -3,7 +3,8 @@ module SpecHelper
     module Test.Hspec.Runner,
     module Acronyms,
     module Strain,
-    module Grains
+    module Grains,
+    module Anagram
     )
 where
 
@@ -12,3 +13,4 @@ import Test.Hspec.Runner
 import Acronyms
 import Strain
 import Grains
+import Anagram
